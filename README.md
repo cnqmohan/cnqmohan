@@ -31,19 +31,7 @@
 
 <img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-```js
-const mohanRam = {
-  role: "Web Developer | Full Stack Developer Intern",
-  education: "B.Tech Information Technology @ Panimalar Engineering College (2023 - 2027)",
-  location: "Chennai, Tamil Nadu 🇮🇳",
-  focus: ["Responsive UIs", "React", "Django", "Generative AI workflows"],
-  strengths: ["Analytical Thinking", "Problem Solving", "Team Collaboration"],
-  spokenLanguages: ["English", "Tamil", "Hindi"],
-  achievement: "🏆 Runner-Up — Intra-College Ideathon 2023 (250+ teams)",
-  currentlyLearning: "Backend architecture & AI-assisted development",
-  funFact: "I've completed 4 internships while still in college 🚀",
-};
-```
+
 
 I'm a detail-oriented **Web Developer** and aspiring **Full Stack Engineer** who loves turning ideas into clean, fast, and responsive interfaces. With hands-on experience across **four internships**, I've built real websites for real clients, explored **Generative AI** workflows, and sharpened my problem-solving through a strong foundation in **Python, C, C++ and Java**.
 
